@@ -6365,7 +6365,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 }
 
 .intro-about .intro-content-text h2 {
-  text-align: right;
+  text-align: left;
   margin-bottom: 40px;
   font-size: 42px;
   font-weight: 800;
@@ -12561,5 +12561,7 @@ footer .copyright-social ul li:last-child {
 .v-light .caption {
   color: #000;
 }
-
+.custom_margin {
+  margin-bottom: 0px !important;
+}
 /*# sourceMappingURL=style.css.map */
