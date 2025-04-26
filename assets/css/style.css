@@ -1,9 +1,9 @@
 @charset "UTF-8";
 /*-----------------------------------------------------------
 
-  Template Name: Droow - Ajax Portfolio Showcase HTML Template
-  Template URI: http://theme.dsngrid.com/droow
-  Description: Droow Ajax Portfolio Showcase HTML Template
+  Template Name: Orbit - Ajax Portfolio Showcase HTML Template
+  Template URI: http://theme.dsngrid.com/Orbit
+  Description: Orbit Ajax Portfolio Showcase HTML Template
   Author: design_grid
   Author URI: https://themeforest.net/user/design_grid
   Version: 1.0.0
@@ -5876,7 +5876,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 .brand-client .wapper-client .logo-box {
   position: relative;
-  background-color: #090909;
+  background-color: #dddd;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -8999,7 +8999,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 
 .headefr-fexid .project-title .title-text-header .title-text-header-inner span {
   display: block;
-  line-height: 50px;
+  line-height: 70px;
   margin: 30px 0;
   font-size: 65px;
   font-size: 65px;
